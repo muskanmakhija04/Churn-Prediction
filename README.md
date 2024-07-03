@@ -19,7 +19,7 @@ This project aims to predict customer churn for a telecommunications company usi
 
 ### Dependencies
 
-- Python 3.8+
+- Python 3.10
 - Flask
 - Pandas
 - Pickle
